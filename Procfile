@@ -1,1 +1,1 @@
-web: gunicorn homework-master.wsgi --log-file -
+web: gunicorn newprj.wsgi --log-file -
